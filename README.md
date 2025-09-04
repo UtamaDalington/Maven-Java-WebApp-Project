@@ -1,4 +1,4 @@
-# Development Environemnt Project
+# Development Environmnt Project
 
 ###### Project ToolBox 🧰
 - [Git](https://git-scm.com/) Git will be used to manage our application source code.
