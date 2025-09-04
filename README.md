@@ -13,7 +13,7 @@
     - Click on `Create` to Create a Repository
      - Repository Name: maven-sonarqube-nexus-project
      - Click on `Create`
-     - Download the Project Zip from https://github.com/awanmbandi/realworld-cicd-pipeline-project/tree/maven-sonarqube-nexus
+     - Download the Project Zip from https://github.com/UtamaDalington/Maven-SonarQube-Nexus-Java-WebApp-Project
      - Unzip and Push the code to the Repository you just provisioned
 
 2) Maven
